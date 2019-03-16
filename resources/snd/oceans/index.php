@@ -83,13 +83,13 @@
 			<a href="http://freemusicarchive.org/music/Black_Agnes/Tales_From_Black_Agnes/"><u>Tales From Black Agnes</u></a> by Black Agnes is licensed under a <u><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0 license.</a></u> It is in no way, shape, or form the original work of the site's creators.
 		</div><br><br>
 	</div>
-</section>	
+</section>
 
 		<section>
 	<footer class="box">
   <div class="has-text-centered">
-      Website © 2019 Gabe Livengood and Matthew Tubbs. The site's source code is licensed under 
-      <a href="../../../LICENSE.txt">the AGPLv3</a>.
+      Website © 2019 Gabe Livengood and Matthew Tubbs. The site's source code is licensed under
+      <a href="../../../LICENSE">the AGPLv3</a>.
   </div>
  </section>
 </footer>

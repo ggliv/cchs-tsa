@@ -188,14 +188,14 @@
 			</div>
 		</div>
 	</section>
-	
+
 	<section>
 	<footer class="box">
   <div class="has-text-centered">
-      Website © 2019 Gabe Livengood and Matthew Tubbs. The site's source code is licensed under 
-      <a href="LICENSE.txt">the AGPLv3</a>.
+      Website © 2019 Gabe Livengood and Matthew Tubbs. The site's source code is licensed under
+      <a href="LICENSE">the AGPLv3</a>.
   </div>
 </footer>
-</section>	
+</section>
 </body>
 </html>

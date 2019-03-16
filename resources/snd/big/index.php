@@ -70,7 +70,7 @@
 			    <br><br>
 				<u><a href="Death_Rides_On_Tuesday.mp3">6. Death Rides on Tuesday</a></u>
 			</div>
-			
+
 		</div>
 		<br>
 		<br>
@@ -82,17 +82,17 @@
 			<u><a href="http://freemusicarchive.org/music/Wizardry/Live_on_Solid_Gold_Hell_with_Sue_P_on_WFMU_10209/">Live on Solid Gold Hell with Sue P. on WFMU 10/2/09</a></u> by Wizardry is licensed under a <u><a href="https://creativecommons.org/licenses/by-nc-nd/3.0/us/">CC BY-NC-ND 3.0 US license.</a></u> It is in no way, shape, or form the original work of the site's creators.
 		</div><br><br>
 	</div>
-	
+
 		<section>
 	<footer class="box">
   <div class="has-text-centered">
-      Website © 2019 Gabe Livengood and Matthew Tubbs. The site's source code is licensed under 
-      <a style="color:#3273dc;" href="../../../LICENSE.txt">the AGPLv3</a>.
+      Website © 2019 Gabe Livengood and Matthew Tubbs. The site's source code is licensed under
+      <a style="color:#3273dc;" href="../../../LICENSE">the AGPLv3</a>.
   </div>
  </section>
 </footer>
 </section>
-	
+
 	<script type="text/javascript">
 	     (function() {
 	       var burger = document.querySelector('.burger');
