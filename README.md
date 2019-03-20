@@ -11,5 +11,7 @@ Some features include:
 
 ### TO DO
   - Bug fixing (spacing on index)
-  - Make sure html is valid (check with NU)
   - Make sure hrefs are portable (../index.php rather than /index.php)
+  - Change <center> tag to something more modern in vex.html and shpe.html while still not breaking things
+  - Find some way to align things to the left and right in css like we did before in cchs-tsa/index.html
+  - Fix broken images in cchs-tsa/resources/img | engineering concepts 1.jpg and foundations picture.jpg. Find original images and add to repo without spaces.
