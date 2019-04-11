@@ -11,7 +11,7 @@ Some features include:
 
 ### TO DO
   - Bug fixing (spacing on index)
-  - Make sure hrefs are portable (../index.php rather than /index.php)
+  - Make sure hrefs are portable in cchs tsa the umlauts section is good(../index.php rather than /index.php)
   - Change <center> tag to something more modern in vex.html and shpe.html while still not breaking things
   - Find some way to align things to the left and right *in css* like we did before in cchs-tsa/index.html. Current solution is not valid (according to Nu)
 .
