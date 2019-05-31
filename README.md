@@ -1,3 +1,4 @@
+# This repo has been archived and will not be updated. We have submitted our entry to TSA nationals.
 # __CCHS-TSA__
 
 [![Bulma](https://bulma.io/images/made-with-bulma--black.png)](https://bulma.io)
